@@ -11,4 +11,4 @@ end
 
 myObject=MyModule::Myclass.new
 myObject.myMethod()
-myObject.myMethod()
+
