@@ -13,3 +13,4 @@ myObject=MyModule::Myclass.new
 myObject.myMethod()
 puts "Please merge this change into master"
 puts "Hi"
+puts "another merge"
